@@ -1,0 +1,2 @@
+# stringglob
+test
